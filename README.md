@@ -1,3 +1,13 @@
+This platform helps users:
+
+**Track income and expenses
+Understand finance concepts
+Learn investing
+Build wealth
+Plan goals
+Receive personalized financial advice
+Learn in regional languages**
+
 # Run Locally
 
 **Prerequisites:**  Node.js
