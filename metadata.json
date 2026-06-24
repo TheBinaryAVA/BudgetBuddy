@@ -1,0 +1,8 @@
+{
+  "name": "MoneyMate AI",
+  "description": "An AI-powered personal financial operating system to track expenses, manage savings goals, assess risk profiles, learn personal finance, and chat with an AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
